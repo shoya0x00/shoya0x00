@@ -1,5 +1,6 @@
-##### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shoya0x00</h1>
+<h3 align="center">A Guy With Zero Skills</h3>
 
-![Linux](https://img.shields.io/static/v1?style=square&color=0F0F0F&logoColor=FFFFCC&logo=linux&label=&message=Linux) ![Bash](https://img.shields.io/static/v1?style=square&color=0F0F0F&logoColor=FFFFCC&logo=gnu-bash&label=&message=Bash) ![Python](https://img.shields.io/static/v1?style=square&color=0F0F0F&logoColor=FFFFCC&logo=python&label=&message=Python)  ![Go](https://img.shields.io/static/v1?style=square&color=0F0F0F&logoColor=FFFFCC&logo=go&label=&message=Go) ![Git](https://img.shields.io/static/v1?style=square&color=0F0F0F&logoColor=FFFFCC&logo=git&label=&message=Git) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoya0x00&label=Profile%20views&color=0e75b6&style=flat" alt="shoya0x00" /> </p>
 
-I'm A Guy With Zero Skills. Who Works On Useless Staff All The Time.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoya0x00&show_icons=true&locale=en" alt="shoya0x00" /></p>
